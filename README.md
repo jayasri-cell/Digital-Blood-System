@@ -1,1 +1,1 @@
-# Digital-Blood-System
+• Designed and developed a Blood Management System with separate Donor and Hospital authentication for secure access. • Implemented donor profile management, hospital search by location, and blood stock viewing to improve donation efficiency. • Built a real-time notification system to alert hospitals when donors indicate willingness to donate blood. • Enabled hospital dashboards to update blood inventory, manage donor requests, and maintain donation records.
